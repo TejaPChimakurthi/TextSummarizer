@@ -26,11 +26,6 @@ pip install -r requirements.txt
 python app.py
 Now,
 
-open up you local host and port
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
-AWS-CICD-Deployment-with-Github-Actions
 1. Login to AWS console.
 2. Create IAM user for deployment
 #with specific access
