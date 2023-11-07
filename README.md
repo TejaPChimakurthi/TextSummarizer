@@ -17,10 +17,10 @@ STEPS:
 Clone the repository
 
 https://github.com/entbappy/End-to-end-Text-Summarization
-STEP 01- Create a conda environment after opening the repository
-conda create -n summary python=3.8 -y
+## STEP 01- Create a conda environment after opening the repository
+conda create -n summary python=3.9 -y
 conda activate summary
-STEP 02- install the requirements
+## STEP 02- install the requirements
 pip install -r requirements.txt
 # Finally run the following command
 python app.py
